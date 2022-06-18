@@ -288,11 +288,16 @@ footer .copyright {
   }
 
   header .textos .nombre {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   header .textos h3 {
     font-size: 18px;
+  }
+
+  .main .acerca-de article h3 {
+    font-size: 34px;
+    margin-bottom: 10px;
   }
 
   .main .acerca-de .foto {
@@ -328,11 +333,6 @@ footer .copyright {
 @media screen and (max-width: 500px) {
   header .menu a {
     margin: 20px 10px;
-  }
-
-  .main .acerca-de article h3 {
-    font-size: 34px;
-    margin-bottom: 10px;
   }
 
   .main .menu article .nombre,
