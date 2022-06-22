@@ -309,7 +309,7 @@ footer .copyright {
     position: relative;
     width: 100%;
     top: -50px;
-    transform: translate(0px, 0);
+    transform: translate(0, 0);
   }
 
   .main .menu {
